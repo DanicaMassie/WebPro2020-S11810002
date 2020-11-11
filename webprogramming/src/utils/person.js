@@ -1,6 +1,6 @@
 export const person = [
     {
-        name: "Anj",
+        name: "hmm",
         institution: "Unklab",
         address: "Ratahan",
         phone: "085xxxxxxx",
