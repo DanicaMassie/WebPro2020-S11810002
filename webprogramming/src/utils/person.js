@@ -1,24 +1,24 @@
-export const person = [
+export const Person = [
     {
-        name: "hmm",
+        name: "Valentine ",
         institution: "Unklab",
-        address: "Ratahan",
-        phone: "085xxxxxxx",
+        address: "Langowan",
+        phone: "0851xxxxxx",
     },
     {
-        name: "Det",
-        institution: "Unsrat",
-        address: "Manado",
+        name: "Sucina Sondakh",
+        institution: "Unima",
+        address: "Tomohon",
         phone: "082xxxxxxx",
     },
     {
-        name: "Higgns",
-        institution: "Unima",
+        name: "Danica Massie",
+        institution: "Unsrat",
         address: "Manado",
         phone: "089xxxxxxx",
     },
     {
-        name: "Zack",
+        name: "Axcel Weku",
         institution: "Unklab",
         address: "Manado",
         phone: "081xxxxxxx",
